@@ -1,0 +1,6 @@
+Superhero    Power    Age
+Homelander    Omni    41
+Maeve    Super_strength    38
+Starlight    Light    25
+The_deep    Water    32
+Atrain    Superspeed    35
